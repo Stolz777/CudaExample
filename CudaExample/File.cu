@@ -5,7 +5,7 @@ The goal of this program is to take in images and invert the rgb colors
 
 You can specify the # of threads or leave it blank and it will autofill 256
 
-requires opencv to run, I will inlcude the .dll with the .exe
+requires opencv libraries
 
 
 */
